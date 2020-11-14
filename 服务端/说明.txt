@@ -1,0 +1,5 @@
+把 clip.php 跟 clip.txt 放在网站某个目录下。
+
+如果是 Linux 系统把 clip.txt 的文件权限设为 777：
+
+chmod 777 clip.txt

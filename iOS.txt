@@ -1,0 +1,7 @@
+就两个快捷指令
+
+发送到 PC： https://www.icloud.com/shortcuts/d82dd9d3158444c2adda6b7dbacd8d6c
+
+从 PC 复制：https://www.icloud.com/shortcuts/d42a774cc8854b2484c4630bcecee8f9
+
+导入之后进行编辑，将里面的网址改成自己的。

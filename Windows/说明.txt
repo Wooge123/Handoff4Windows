@@ -1,0 +1,5 @@
+Windows 平台需要安装 Python 3，并打开 CMD 安装一个依赖：
+
+pip install pyperclip
+
+右键 Handoff for Windows.exe 发送快捷方式到桌面，再到文件管理的路径栏执行：shell:startup 便会打开启动文件夹，把桌面的快捷方式拖进去，便能实现程序开机自启。
